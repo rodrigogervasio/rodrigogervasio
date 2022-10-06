@@ -1,16 +1,19 @@
-### Hi there 👋
+## Sejam bem vindos!
+- Autodidata nesse mundo da programação e tecnologia.
+<a href="https://github.com/rodrigogervasio"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigogervasio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
-<!--
-**rodrigogervasio/rodrigogervasio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
+ <div style="display: inline_block"><br>
+ Em aprendizado:
+ <div>
+<img align="center"src="https://img.icons8.com/ios-filled/60/000000/linux.png"/>
+<img align="center"src="https://img.icons8.com/carbon-copy/100/000000/kali-linux.png"/>
+<img align="center"src="https://img.icons8.com/ios-filled/65/000000/python.png"/>
+<img align="center"src="https://img.icons8.com/ios/100/000000/django.png"/>
+<img align="center"src="https://img.icons8.com/dotty/80/000000/sql.png"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+ 
+ <a href = "mailto:reallifestyle.021@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
