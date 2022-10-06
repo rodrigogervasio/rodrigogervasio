@@ -6,7 +6,7 @@
 ##
 
  <div style="display: inline_block"><br>
- Em aprendizado:
+ Aprendendo:
  <div>
 <img align="center"src="https://img.icons8.com/ios-filled/60/000000/linux.png"/>
 <img align="center"src="https://img.icons8.com/carbon-copy/100/000000/kali-linux.png"/>
