@@ -11,7 +11,6 @@
 <img align="center"src="https://img.icons8.com/ios-filled/60/000000/linux.png"/>
 <img align="center"src="https://img.icons8.com/carbon-copy/100/000000/kali-linux.png"/>
 <img align="center"src="https://img.icons8.com/ios-filled/65/000000/python.png"/>
-<img align="center"src="https://img.icons8.com/ios/100/000000/django.png"/>
 <img align="center"src="https://img.icons8.com/dotty/80/000000/sql.png"/>
 
 ##
